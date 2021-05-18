@@ -1,0 +1,9 @@
+Team name: Baietii cu garaju
+
+Student Name: Andrei Gabriel Candet
+Proposed Grade: 10
+Grade Details: Did a very good job developing the mobile app.
+
+Student Name: Vlad George Prundus
+Proposed Grade: 10
+Grade Details: Worked on the Raspberry Pi (components logic) and did a very good job.
